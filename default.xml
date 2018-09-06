@@ -14,8 +14,7 @@
            sync-j="4" />
   
 >>> Art=text2art("art") # Return ascii text (default font) and default chr_ignore=True 
->>> print(Art)
-              _   
+>>> print(Art)  
   ____        _                 _           _     ______ __  __ 
  |  _ \      | |               | |         | |   |  ____|  \/  |
  | |_) | __ _| |_   _ _ __ __ _| |__   __ _| |_  | |__  | \  / |
