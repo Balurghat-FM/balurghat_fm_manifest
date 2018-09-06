@@ -10,7 +10,7 @@
 
 Some basic Git commands are:
 ```
-git clone
+repo init -u git://github.com/Balurghat-FM/balurghat_fm_site.git -b master
 ```
 
 Copyright 2018 Beupgraded.co.in/radio/ , Balurghatfm.info | All Rights Reserved | Maintained by Sabyasachi Sarkar.
