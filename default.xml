@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".."
+           review=".." />
+
+<!-- Project Init -->
+
+<project path="art" name="Balurghat-FM/site_content" />
+
+</manifest>
