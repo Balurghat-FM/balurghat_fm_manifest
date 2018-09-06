@@ -8,7 +8,7 @@
 
 To initialize your local repository using the Balurghat FM , use a command like this:
 ```
-repo init -u git://github.com/Balurghat-FM/balurghat_fm_site.git -b master
+repo init -u git://github.com/Balurghat-FM/balurghat_fm_manifest.git -b master
 ```
 Then to sync up:
 ```
