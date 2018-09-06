@@ -6,7 +6,7 @@
 
 > Simple command to implement on your server. We highly recomended you to use a Low Cost VPS or expensive Hosting like GoDaddy/BlueHost/HostingRaja or Other, which give you the privilege to use SSH.
 
-To get started with Balurghat FM, you'll need to get familiar with [Git] (https://github.com/Balurghat-FM/balurghat_fm_manifest/blob/master/install.md) and [Repo] (https://github.com/Balurghat-FM/balurghat_fm_manifest/blob/master/install.md)
+To get started with Balurghat FM, you'll need to get familiar with [Git](https://github.com/Balurghat-FM/balurghat_fm_manifest/blob/master/install.md) and [Repo](https://github.com/Balurghat-FM/balurghat_fm_manifest/blob/master/install.md)
 
 To initialize your local repository using the Balurghat FM , use a command like this:
 ```
