@@ -1,4 +1,4 @@
-## Balurghat FM Beupgaraded.co.in site_design
+## Balurghat FM Beupgaraded.co.in Site Design
 
 ### This is Site is fully designed & maintained by Sabyasachi Sarkar.
 
