@@ -6,10 +6,12 @@
 
 > Simple command to implement on your server. We highly recomended you to use a Low Cost VPS or expensive Hosting like GoDaddy/BlueHost/HostingRaja or Other, which give you the privilege to use SSH.
 
+
 To initialize your local repository using the Balurghat FM , use a command like this:
 ```
 repo init -u git://github.com/Balurghat-FM/balurghat_fm_manifest.git -b master
 ```
+
 Then to sync up:
 ```
 repo sync
