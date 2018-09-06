@@ -5,6 +5,14 @@
            fetch=".."
            review=".." />
 
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
 <!-- Project Init -->
 
 <project path="art" name="Balurghat-FM/balurghat_site_content" />
