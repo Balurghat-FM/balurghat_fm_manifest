@@ -18,4 +18,4 @@ Then to sync up:
 repo sync
 ```
 
-Copyright 2018 Beupgraded.co.in/radio/ , Balurghatfm.info | All Rights Reserved | Maintained by Sabyasachi Sarkar.
+Copyright 2018-2019 <a href=beupgraded.co.in>Balurghat FM</a> | All Rights Reserved | Maintained by Sabyasachi Sarkar.
